@@ -1,4 +1,4 @@
-namespace Notes;
+namespace notes;
 
 public partial class Sobre : ContentPage
 {
